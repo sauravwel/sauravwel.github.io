@@ -1,14 +1,12 @@
 # Site settings
 title: Saurav Kumar
 description: Saurav personal website
-baseurl: ""  # the subpath of your site, e.g./blog
-url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+#baseurl: ""  # the subpath of your site, e.g./blog
+#url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Saurav Kumar
-user_description: I am an alumnus of IIT Kharagpur, India and working as a data scientist at Wells Fargo, India. And recently filed a patent on emotion print, which has been accepted and is in the process of publication.
-
-Nearly 2 years ago, I benefited a lot by adopting a sustainable healthy lifestyle as reversed my weight, frequent cough & cold problems, and skin issues. And then I understand "Wellness is a journey, not a destination." Once I understand it! There is no looking back on my health. Now In my free time, help and mentor more people on their path of creating health and wellness for themselves!
+user_description: I am an alumnus of IIT Kharagpur, India and working as a data scientist at Wells Fargo, India. And recently filed a patent on emotion print, which has been accepted and is in the process of publication. Nearly 2 years ago, I benefited a lot by adopting a sustainable healthy lifestyle as reversed my weight, frequent cough & cold problems, and skin issues. And then I understand "Wellness is a journey, not a destination." Once I understand it! There is no looking back on my health. Now In my free time, help and mentor more people on their path of creating health and wellness for themselves!
 user_title: Life Engineer
 email: sauravkumar.iitkgp@gmail.com
 # twitter_username: lorem_ipsum
